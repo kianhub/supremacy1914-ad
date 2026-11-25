@@ -29,3 +29,11 @@
 {"ts":"2026-11-25T09:23:00-06:00","event":"outcome","item":"cancel Sell 856 oil @3.4","attempts":3,"result":"abort didn't register; still active","source":"journal","timezone":"America/Chicago"}
 {"ts":"2026-11-25T09:23:00-06:00","event":"outcome","item":"oil buys","count":2,"qty":300,"price":14.3,"result":"accepted, not filled","source":"journal","timezone":"America/Chicago"}
 {"ts":"2026-11-25T09:23:00-06:00","event":"observation","item":"newspaper","result":"only own war declaration on Omaha (06:39); none declared on us","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-25T11:41:00-06:00","event":"observation","item":"2nd Inf Corps","unit_strength":33,"status":"Waiting at Concordia, order Concordia->St. Joseph, not moving","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-25T11:41:00-06:00","event":"correction","item":"standing order Sell 856 @3.4","finding":"is COAL not oil","cancel_attempts":4,"result":"still active","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-25T11:41:00-06:00","event":"outcome","item":"oil buy","qty":300,"price":14.1,"cost":4653,"result":"no effect, oil still 0","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-25T11:41:00-06:00","event":"metrics","money":8700,"money_per_h":885,"grain":7500,"fish":1600,"fish_per_h":-135,"iron":3200,"lumber":10000,"coal":16000,"oil":0,"oil_per_h":-71,"gas":5800,"note":"approximate, from journal","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-25T11:41:00-06:00","event":"decision","action":"diagnose connectivity (commands not reaching server) and hand off to box-maintenance bot","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-25T11:52:00-06:00","event":"decision","action":"re-order 2nd Corps in Attack mode on Omaha 4th Bde at St. Joseph","result":"'Relocating to St. Joseph' but still Waiting; unverified","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-25T11:52:00-06:00","event":"metrics","oil":0,"oil_per_h":-73,"oil_offer_min":14.1,"market_fee_pct":10,"fish_offer_min":14.6,"note":"from journal","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-25T11:52:00-06:00","event":"incident","item":"browser restarted by maintenance bot at 1280x800; Supreme's desktop tool broke; asked for 1920x1200 back","source":"journal","timezone":"America/Chicago"}
