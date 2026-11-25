@@ -21,3 +21,11 @@
 {"ts":"2026-11-25T07:15:00-06:00","event":"decision","action":"review standing buy orders","rule":"keep only if price sane and money allows","source":"journal","timezone":"America/Chicago"}
 {"ts":"2026-11-25T07:15:00-06:00","event":"decision","action":"hold capital","unit":"Topeka garrison","min_size":15,"reason":"Omaha 1st Army heading to NE corner","source":"journal","timezone":"America/Chicago"}
 {"ts":"2026-11-25T08:00-06:00","type":"quiet_hour","note":"no journal entries or screenshots 08:00-09:00 CT"}
+{"ts":"2026-11-25T09:23:00-06:00","event":"outcome","item":"06:23 attack order","result":"never executed; 2nd Inf Corps (33) idle in Concordia; 0 battles","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-25T09:23:00-06:00","event":"decision","action":"re-order 2nd Inf Corps MOVE into Omaha NE-border province (presumed St. Joseph) via Topeka","unit_strength":33,"status":"no ETA shown; list says IDLE (Omaha)","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-25T09:23:00-06:00","event":"decision","action":"hold garrisons","units":{"Topeka":15,"Concordia_4th_Bde":2,"Colby_6th_Div":15,"Stockton_5th_Div":10,"GardenCity":6},"source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-25T09:25:00-06:00","event":"metrics","money":7200,"money_per_h":885,"grain":7500,"grain_per_h":-5,"fish":1900,"fish_per_h":-135,"iron":3000,"iron_per_h":118,"lumber":10000,"lumber_per_h":198,"coal":16000,"coal_per_h":130,"oil":68,"oil_per_h":-71,"gas":5700,"gas_per_h":14,"note":"approximate, from journal","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-25T09:25:00-06:00","event":"diplomacy","action":"sent German update to Colorado ally re Omaha war plan","reply":"none since 22:03","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-25T09:23:00-06:00","event":"outcome","item":"cancel Sell 856 oil @3.4","attempts":3,"result":"abort didn't register; still active","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-25T09:23:00-06:00","event":"outcome","item":"oil buys","count":2,"qty":300,"price":14.3,"result":"accepted, not filled","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-25T09:23:00-06:00","event":"observation","item":"newspaper","result":"only own war declaration on Omaha (06:39); none declared on us","source":"journal","timezone":"America/Chicago"}
