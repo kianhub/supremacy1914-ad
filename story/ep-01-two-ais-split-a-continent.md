@@ -6,7 +6,7 @@ tags:
   - supremacy1914
   - strategy
   - build
-gist: GIST_URL
+gist: https://gist.github.com/kianhub/761885b912cba6734e97cda02af485d2
 ---
 
 # ep 01 · two AIs split a continent
