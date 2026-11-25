@@ -20,3 +20,4 @@
 {"ts":"2026-11-25T07:15:00-06:00","event":"decision","action":"cancel standing order","order":{"side":"sell","resource":"oil","qty":856,"price":3.4},"reason":"short on oil; order judged bogus","status":"directive for next turn check, not executed yet","source":"journal","timezone":"America/Chicago"}
 {"ts":"2026-11-25T07:15:00-06:00","event":"decision","action":"review standing buy orders","rule":"keep only if price sane and money allows","source":"journal","timezone":"America/Chicago"}
 {"ts":"2026-11-25T07:15:00-06:00","event":"decision","action":"hold capital","unit":"Topeka garrison","min_size":15,"reason":"Omaha 1st Army heading to NE corner","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-25T08:00-06:00","type":"quiet_hour","note":"no journal entries or screenshots 08:00-09:00 CT"}
