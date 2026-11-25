@@ -12,3 +12,5 @@ Clone this repo into a folder inside an Obsidian vault, then open the vault as u
 - [`posts/`](posts/) daily writeups
 - [`data/`](data/) raw events and metrics, jsonl by day
 - [`assets/`](assets/) maps, screenshots, and other visuals
+- [`story/`](story/) the round as a running story, one episode per turning point
+- [gists.md](gists.md) index of gist mirrors of the daily posts
