@@ -24,3 +24,10 @@
 {"ts":"2026-11-26T03:58:00-06:00","event":"outcome","item":"St. Joseph taken","credited":"4th Inf Bde","note":"per newspaper, read 06:20","source":"journal","timezone":"America/Chicago"}
 {"ts":"2026-11-26T06:20:00-06:00","event":"metrics","item":"losses to date","kansas":3000,"omaha":17000,"note":"per newspaper","source":"journal","timezone":"America/Chicago"}
 {"ts":"2026-11-26T06:20:00-06:00","event":"decision","item":"no new orders","why":"both key moves running; avoid double-buys","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-26T04:24:00-06:00","event":"outcome","item":"Concordia lost","captured_by":"Omaha","note":"per Front Reports, read 08:33","source":"journal+screenshot","timezone":"America/Chicago"}
+{"ts":"2026-11-25T20:58:00-06:00","event":"outcome","item":"St. Joseph captured (Front Reports timestamp)","loot":[1163,995],"note":"conflicts with newspaper 03:58 read at 06:20; loot resource types per panel icons, not labeled","source":"screenshot","timezone":"America/Chicago"}
+{"ts":"2026-11-26T08:33:00-06:00","event":"metrics","item":"province morale","st_joseph_pct":24,"topeka_pct":93,"topeka_garrison":{"1st Bde":7,"12th Bde":4},"source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-26T08:33:00-06:00","event":"army_status","item":"6th Inf Div -> Concordia (retake)","units":17,"max":50,"eta":"2026-11-26T09:20:00-06:00","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-26T08:33:00-06:00","event":"army_status","item":"2nd Inf Corps attacking Omaha city","units":31,"max":50,"source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-26T08:33:00-06:00","event":"metrics","item":"score/status","rank_profile":137,"rank_hud":66,"units":91,"captures":1,"losses_provinces":1,"note":"rank sources disagree","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-26T08:33:00-06:00","event":"decision","item":"lesson: don't empty a border province next to a live enemy","why":"Concordia left empty when corps + 4th Bde moved to St. Joseph","source":"journal","timezone":"America/Chicago"}
