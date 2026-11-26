@@ -7,3 +7,4 @@
 {"ts":"2026-11-26T00:38:00-06:00","event":"infra_fix","item":"F11 fullscreen + 50% zoom unblocked army panel; low-graphics mode","source":"journal","timezone":"America/Chicago"}
 {"ts":"2026-11-26T00:38:00-06:00","event":"decision","item":"2nd Inf Corps St. Joseph -> Omaha city","strength":32,"eta":"2026-11-26T14:16:00-06:00","why":"second of Omaha's three provinces; break the AI","source":"journal","timezone":"America/Chicago"}
 {"ts":"2026-11-26T00:38:00-06:00","event":"decision","item":"6th Inf Div Colby -> Concordia","eta":"2026-11-26T06:40:00-06:00","why":"second strike stack for the east","note":"panel showed 77 units vs ~17 expected; unverified","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-26T01:00:00-06:00","event":"quiet_hour","item":"no journal entries or screenshots 01:00-02:00 CT","source":"journal","timezone":"America/Chicago"}
