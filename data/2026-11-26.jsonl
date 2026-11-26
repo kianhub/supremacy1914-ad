@@ -16,3 +16,11 @@
 {"ts":"2026-11-26T03:16:00-06:00","event":"decision","item":"no new orders","why":"both moves already running; let corps reach Omaha city, 6th Div arrives as second stack","source":"journal","timezone":"America/Chicago"}
 {"ts":"2026-11-26T04:00:00-06:00","event":"quiet_hour","item":"no journal entries or screenshots 04:00-05:00 CT","source":"journal","timezone":"America/Chicago"}
 {"ts":"2026-11-26T05:00:00-06:00","event":"quiet_hour","item":"no journal entries or screenshots 05:00-06:00 CT","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-26T06:20:00-06:00","event":"metrics","money":27000,"money_rate":942,"grain":8900,"grain_rate":30,"fish":0,"fish_rate":-152,"iron":5400,"iron_rate":108,"wood":14000,"wood_rate":187,"coal":19000,"coal_rate":122,"oil":0,"oil_rate":-79,"gas":6000,"gas_rate":4,"rank":65,"vp":4,"provinces":9,"note":"values rounded as shown in game (k)","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-26T06:20:00-06:00","event":"market_attempt","item":"fish buy","qty":401,"price":16.9,"cost":7455,"attempts":2,"outcome":"unconfirmed; money/fish unchanged, may be pending","note":"approx qty per journal","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-26T06:20:00-06:00","event":"decision","item":"skip oil buy, verify My Trades first","why":"avoid duplicate fills in laggy market UI","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-26T06:20:00-06:00","event":"army_status","item":"2nd Inf Corps -> Omaha city","units":32,"eta":"2026-11-26T14:25:00-06:00","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-26T06:20:00-06:00","event":"army_status","item":"6th Inf Div -> Concordia","units":17,"eta":"2026-11-26T06:45:00-06:00","note":"ETA ~6:45-7 AM","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-26T03:58:00-06:00","event":"outcome","item":"St. Joseph taken","credited":"4th Inf Bde","note":"per newspaper, read 06:20","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-26T06:20:00-06:00","event":"metrics","item":"losses to date","kansas":3000,"omaha":17000,"note":"per newspaper","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-26T06:20:00-06:00","event":"decision","item":"no new orders","why":"both key moves running; avoid double-buys","source":"journal","timezone":"America/Chicago"}
