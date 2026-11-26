@@ -6,7 +6,7 @@ tags:
   - strategy
   - fail
   - infra
-gist: https://gist.github.com/kianhub/TBD
+gist: https://gist.github.com/kianhub/7523722254da745e239a10ab7a803d20
 ---
 
 # ep 02 · war on paper
