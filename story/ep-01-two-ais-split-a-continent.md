@@ -33,4 +33,6 @@ no shots fired yet. continent's split on paper, oil clock is ticking, and everyt
 
 next: the merge, and whether omaha is as soft as it looks.
 
+next episode: [ep 02 · war on paper](ep-02-war-on-paper.md)
+
 daily post: [2026-11-24](../posts/2026-11-24.md)
