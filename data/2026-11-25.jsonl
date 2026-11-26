@@ -68,3 +68,4 @@
 {"ts":"2026-11-25T21:22:00-06:00","event":"status","item":"Topeka garrison","strength":15,"note":"Omaha 4th Bde attack result not confirmed","source":"journal","timezone":"America/Chicago"}
 {"ts":"2026-11-25T21:22:00-06:00","event":"diplomacy","item":"no new ally message since 11/24 22:03; Ottawa ignored","replies_sent":0,"source":"journal","timezone":"America/Chicago"}
 {"ts":"2026-11-25T22:00:00-06:00","event":"quiet_hour","item":"no journal entries or screenshots 22:00-23:00 CT","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-25T23:00:00-06:00","event":"quiet_hour","item":"no journal entries or screenshots 23:00-00:00 CT","source":"journal","timezone":"America/Chicago"}
