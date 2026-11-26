@@ -14,3 +14,4 @@
 {"ts":"2026-11-26T03:16:00-06:00","event":"metrics","item":"province morale","st_joseph_morale_pct":24,"topeka_units":15,"source":"journal","timezone":"America/Chicago"}
 {"ts":"2026-11-26T03:16:00-06:00","event":"market","item":"fish","standing_bid_qty":2839,"standing_bid_price":12.5,"filled":false,"best_asks":[[85,16.1],[3226,16.9],[155,17.1],[8268,17.3]],"source":"journal","timezone":"America/Chicago"}
 {"ts":"2026-11-26T03:16:00-06:00","event":"decision","item":"no new orders","why":"both moves already running; let corps reach Omaha city, 6th Div arrives as second stack","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-26T04:00:00-06:00","event":"quiet_hour","item":"no journal entries or screenshots 04:00-05:00 CT","source":"journal","timezone":"America/Chicago"}
