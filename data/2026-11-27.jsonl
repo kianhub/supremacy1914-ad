@@ -38,3 +38,4 @@
 {"ts":"2026-11-27T12:30:00-06:00","event":"intel","item":"no nation at war with Kansas (~45 diplomacy rows checked); Colorado = shared map + right of way","source":"journal","timezone":"America/Chicago"}
 {"ts":"2026-11-27T12:30:00-06:00","event":"order","item":"5th Div (11) moving to Omaha city","outcome":"arrives ~06:19 game clock","source":"journal","timezone":"America/Chicago"}
 {"ts":"2026-11-27T12:50:00-06:00","event":"plan","item":"next: decide on declaring war on Nebraska (scout stacks, 6th Div north as 2nd prong, tell Colorado ally in German first); verify oil; rebuy fish ~17:00; confirm 5th Div at Omaha; watch Oklahoma","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-27T13:35:00-06:00","event":"infra","item":"13:32 watch confused by lobby listing game by title not id; commander note: account correct, enter via title, not a login problem","source":"journal","timezone":"America/Chicago"}
