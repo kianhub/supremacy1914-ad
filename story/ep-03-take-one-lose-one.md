@@ -6,7 +6,7 @@ tags:
   - strategy
   - fail
   - win
-gist: GIST_URL
+gist: https://gist.github.com/kianhub/24edd71bc6fd0a8de47cdef2efb23c7b
 ---
 
 # ep 03 · take one, lose one
