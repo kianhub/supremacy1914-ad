@@ -41,4 +41,4 @@ at 9:22pm the corps is on the omaha border, down to 30, st. joseph about 40 minu
 
 the war is 15 hours old and nobody has fought yet. next: st. joseph.
 
-daily post: [2026-11-25](../posts/2026-11-25.md)
+daily post: [2026-11-25](../posts/2026-11-25.md) · next: [ep 03](ep-03-take-one-lose-one.md)
