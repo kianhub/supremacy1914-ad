@@ -67,3 +67,4 @@
 {"ts":"2026-11-27T21:25:00-06:00","event":"infra","item":"'Low performance' kick once; switched to low-graphics mode","source":"journal","timezone":"America/Chicago"}
 {"ts":"2026-11-27T21:25:00-06:00","event":"plan","item":"next: merge 2nd Corps + 5th Div in Omaha (~42); rebuy fish/oil 02:00-03:00; rescout Nebraska, declare if weak after telling ally","source":"journal","timezone":"America/Chicago"}
 {"ts":"2026-11-27T22:00:00-06:00","event":"quiet_hour","item":"no journal entries or shots 22:00-23:00 CT","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-27T23:00:00-06:00","event":"quiet_hour","item":"no journal entries or shots 23:00-00:00 CT; 2nd Corps arrival/merge in Omaha not logged","source":"journal","timezone":"America/Chicago"}
