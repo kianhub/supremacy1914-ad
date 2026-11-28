@@ -46,3 +46,5 @@ by 9:30pm the war looks better on paper than on the map. kansas has lost 12k, om
 it wins the fights. it keeps losing what it leaves empty. next: does it garrison omaha city this time.
 
 daily post: [2026-11-26](../posts/2026-11-26.md)
+
+next: [ep 04](ep-04-omaha-falls-nebraska-wakes.md)
