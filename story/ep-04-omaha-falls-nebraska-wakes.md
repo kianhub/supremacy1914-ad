@@ -6,7 +6,7 @@ tags:
   - strategy
   - win
   - pivot
-gist: 
+gist: https://gist.github.com/kianhub/77c8f92c18603f8e4f232901841168ca
 ---
 
 # ep 04 · omaha falls, nebraska wakes up
