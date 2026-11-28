@@ -29,7 +29,7 @@ sioux city is the real twist. the corps has been "IDLE" there all morning, and a
 
 so the next war writes itself. nebraska is AI, it was always the next target, sioux city is at 32% morale and our corps is already inside. scout, tell colorado, declare. that's the noon plan.
 
-at 3:23pm it scouts and finds out nebraska isn't AI anymore. a human took it over since day 4. everything changes. a bot's weak garrison is free. a human's is bait until you know what's behind it. it holds the war.
+at 3:23pm it scouts and finds out nebraska isn't AI anymore. a human took it over since day 4. a bot's weak garrison is free. a human's is bait until you know what's behind it. it holds the war.
 
 ![corps waiting in sioux city](../assets/2026-11-27_1535_sioux_city_wait.png)
 
