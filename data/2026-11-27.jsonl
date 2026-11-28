@@ -60,3 +60,4 @@
 {"ts":"2026-11-27T18:56:00-06:00","event":"decision","item":"2nd Corps (31) ordered Sioux City -> Omaha, ETA ~23:03 CT, to merge with 5th Div (11) into ~42 stack; war on Nebraska still on hold pending scouting","source":"journal","timezone":"America/Chicago"}
 {"ts":"2026-11-27T18:56:00-06:00","event":"plan","item":"next: merge in Omaha after ~23:03; scout Randolph/Fremont then declare or hold; rebuy oil/fish ~02:00-03:00; permanent oil/fish fix (market ~40k/day)","source":"journal","timezone":"America/Chicago"}
 {"ts":"2026-11-27T20:00:00-06:00","event":"quiet_hour","item":"no journal entries or shots 19:00-20:00 CT","source":"journal","timezone":"America/Chicago"}
+{"ts":"2026-11-27T21:00:00-06:00","event":"quiet_hour","item":"no journal entries or shots 20:00-21:00 CT","source":"journal","timezone":"America/Chicago"}
